@@ -1,22 +1,11 @@
-# app-quasar (tutorial)
-
-tutorial de quasar
-
-## Install the dependencies
-```bash
-yarn
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+# Pasos para Correr el proyecto
 
 
-### Build the app for production
-```bash
-quasar build
-```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+## Clonal proyecto
+
+
+### escribir comando: npm install
+
+
+### escribir comando quasar dev

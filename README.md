@@ -1,6 +1,6 @@
-# Pasos para Correr el proyecto
+# Frontend Prueba Talana
 
-
+###Pasos para Correr el proyecto
 
 ## Clonal proyecto
 
